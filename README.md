@@ -37,7 +37,7 @@ pypiwin32==223
  ```
 
 
-### Download chromedriver.exe
+### Change Account
 
 Change line 200 and 201 to your own mega account
 
