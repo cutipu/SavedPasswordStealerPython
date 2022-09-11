@@ -6,6 +6,7 @@ Steal All Profile Saved Password On Browser And Upload To Your Mega Account
 
 This tool is for educational purposes only; Any actions and or activities related to this tool are solely your responsibility. The used of this tool can result in criminal charges brought against the persons in question. I'll not be held responsible in the event any criminal charges be brought against any individuals misusing this tool to break the law. ❗❗
 
+
 ## Module Used
 
 ```python
@@ -15,16 +16,6 @@ pypiwin32==223
 ```
 ## Usage
 
-### Install All Module
-
-```python
-  pip install -r requirements.txt
-```
-### Run Tool
-
-```python
-  python stealer.py
-```
 
 ### Convert To EXE
 
@@ -36,6 +27,16 @@ pypiwin32==223
   py -m nuitka --mingw64 .\stealer.py --standalone --onefile 
  ```
 
+### Install All Module
+
+```python
+  pip install -r requirements.txt
+```
+### Run Tool
+
+```python
+  python stealer.py
+```
 
 ### Change Account
 
