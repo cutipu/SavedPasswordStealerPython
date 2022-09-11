@@ -15,7 +15,7 @@ pypiwin32==223
 ```
 ## Usage
 
-### Install Module
+### Install All Module
 
 ```python
   pip install -r requirements.txt
