@@ -4,7 +4,7 @@ Steal All Profile Saved Password On Browser And Upload To Your Mega Account
 
 ## Disclamer ⚠️
 
-This tool is for educational purposes only; Any actions and or activities related to this tool are solely your responsibility. The used of this tool can result in criminal charges brought against the persons in question. I'll not be held responsible in the event any criminal charges be brought against any individuals misusing this tool to break the law. ❗❗
+This tool is for educational purposes only; Any actions and or activities related to this tool are solely your responsibility. The used of this tool can result in criminal charges brought against the persons in question. I'll not be held responsible in the event any criminal charges be brought against any individuals misusing this tool to break the law. ❗
 
 
 ## Module Used
