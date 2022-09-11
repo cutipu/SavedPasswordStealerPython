@@ -1,46 +1,46 @@
 # Saved Password Stealer
 
-Steal Saved Password On Browser On All Profile
+Steal All Profile Saved Password On Browser And Upload To Your Mega Account
 
 ## Disclamer
-This tool is for educational purposes only; Any actions and or activities related to this tool are solely your responsibility. The used of this tool can result in criminal charges brought against the persons in question. 
-I'll not be held responsible in the event any criminal charges be brought against any individuals misusing this tool to break the law.
 
+This tool is for educational purposes only; Any actions and or activities related to this tool are solely your responsibility. The used of this tool can result in criminal charges brought against the persons in question. I'll not be held responsible in the event any criminal charges be brought against any individuals misusing this tool to break the law.
+
+## Module Used
+
+```python
+mega.py==1.0.8
+pycryptodome==3.15.0
+pypiwin32==223
+```
 ## Usage
 
 ### Install Module
 
 ```python
-  pip install selenium
+  pip install -r requirements.txt
 ```
 ### Run Tool
 
 ```python
-  python find_location.py
+  python stealer.py
 ```
 
 ### Convert To EXE
 
-- Use Script In File Organizer EXE Folder
 ```python
   # Using Pyinstaller
-  Pyinstaller --noconfirm --onefile find_location.py
+  Pyinstaller --noconfirm --onefile stealer.py
 
-  # Using Nuitka
-  py -m nuitka --mingw64 .\find_location.py --standalone --onefile 
+  # recommend Using Nuitka
+  py -m nuitka --mingw64 .\stealer.py --standalone --onefile 
  ```
 
 
-## Tutorial
+### Download chromedriver.exe
 
-You need to use chromedriver.exe to make this tool work and put into same directory with script/exe. chromedriver must have the same version with Chrome. 
-Also findlocation can't work in headless mode but i set the chrome location to "window-position=-2000,0" so there's nothing shows on the screen. Only on taskbar.
+Change line 200 and 201 to your own mega account
 
-## Download chromedriver.exe
-
- - [chromedriver.exe](https://chromedriver.chromium.org/downloads)
- 
-## Demo
-<img src="https://github.com/katakkentut/LocationFinderPython/blob/master/Tutorial/Tutorial.gif" width="700" height="600">
+<img src="https://github.com/katakkentut/SavedPasswordStealerPython/blob/master/screenshot/Screenshot%202022-09-11%20234424.png" width="700" height="600">
  
  
