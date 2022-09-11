@@ -41,6 +41,6 @@ pypiwin32==223
 
 Change line 200 and 201 to your own mega account
 
-<img src="https://github.com/katakkentut/SavedPasswordStealerPython/blob/master/screenshot/Screenshot%202022-09-11%20234424.png" width="700" height="600">
+("https://github.com/katakkentut/SavedPasswordStealerPython/blob/master/screenshot/Screenshot%202022-09-11%20234424.png")
  
  
